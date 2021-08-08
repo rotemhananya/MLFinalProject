@@ -1,0 +1,4 @@
+,bank,cardiotocography-10clases,cardiotocography-3clases,image-segmentation,mfeat-karhunen,molec-biol-splice,mushroom,oocytes_merluccius_nucleus_4d,oocytes_merluccius_states_2f,ozone,plant-margin,plant-shape,plant-texture,statlog-german-credit,statlog-image,waveform-noise,waveform,wine-quality-red,wine-quality-white
+Number Of Samples,4521,2126,2126,2310,2000,3190,8124,1022,1022,2536,1600,1600,1599,1000,2310,5000,5000,1599,4898
+Number Of Features,17,22,22,19,65,61,22,42,26,73,65,65,65,25,19,41,22,12,12
+Number of Classes,2,10,3,7,10,3,2,2,3,2,100,100,100,2,7,3,3,6,7
